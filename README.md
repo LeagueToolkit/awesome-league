@@ -9,6 +9,7 @@ A list of useful tools, software, websites or any other utility related to Leagu
 - [wadtools](https://github.com/LeagueToolkit/wadtools) - CLI tool for interacting with WAD files, including extraction and diffing
 - [ritobin](https://github.com/moonshadow565/ritobin) - CLI tool for converting League's `.bin` format to a human-readable version (`.ritobin`)
 - [LtMAO](https://github.com/tarngaina/LtMAO) - Collection of various tools and utilities to help modders
+- [lolpytools](https://github.com/moonshadow565/lolpytools) - Python scripts for converting inibin, troybin, luaobj and luabin files
 
 ### Libraries
 - [league-toolkit](https://github.com/LeagueToolkit/league-toolkit) - Rust implementation of League Toolkit
