@@ -7,6 +7,8 @@ A list of useful tools, software, websites or any other utility related to Leagu
 
 ### Tools
 - [wadtools](https://github.com/LeagueToolkit/wadtools) - CLI tool for interacting with WAD files, including extraction and diffing
+- [ltk-tex-utils](https://github.com/LeagueToolkit/ltk-tex-utils) - Robust converter for `.tex` files. Convert back and forth between common image formats.
+- [Ritoddstex](https://github.com/Morilli/Ritoddstex) - Simple converter for dds<->tex files
 - [ritobin](https://github.com/moonshadow565/ritobin) - CLI tool for converting League's `.bin` format to a human-readable version (`.ritobin`)
 - [LtMAO](https://github.com/tarngaina/LtMAO) - Collection of various tools and utilities to help modders
 - [lolpytools](https://github.com/moonshadow565/lolpytools) - Python scripts for converting inibin, troybin, luaobj and luabin files
