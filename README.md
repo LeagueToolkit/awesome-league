@@ -20,5 +20,6 @@ A list of useful tools, software, websites or any other utility related to Leagu
 - [LeagueToolkit](https://github.com/LeagueToolkit/LeagueToolkit) - Parse, edit and convert various League of Legends file formats
 
 ### Utilities
+- [ltk-tex-thumb-handler](https://github.com/LeagueToolkit/ltk-tex-utils) - Show `.tex` texture previews in Windows Explorer
 - [League Hashes by CDragon](https://github.com/CommunityDragon/Data) - Contains an actively maintained collection of hashes used by League
 - [riot-manifests](https://github.com/Morilli/riot-manifests) - List of manifest files for Riot Games products, including League
