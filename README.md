@@ -14,6 +14,7 @@ A list of useful tools, software, websites or any other utility related to Leagu
 - [lolpytools](https://github.com/moonshadow565/lolpytools) - Python scripts for converting inibin, troybin, luaobj and luabin files
 - [lol2gltf](https://github.com/Crauzer/lol2gltf) - CLI tool for converting 3D assets from League into the GLTF format (partial support for converting GLTF to League formats as well)
 - [Obsidian](https://github.com/Crauzer/Obsidian) - Tool for exploring and extracting `WAD` files with a modern UI
+- [league-mod](https://github.com/LeagueToolkit/league-mod) - Toolkit for creating, managing, and distributing League of Legends mods.
 
 ### Libraries
 - [league-toolkit](https://github.com/LeagueToolkit/league-toolkit) - Rust implementation of League Toolkit
