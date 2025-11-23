@@ -12,8 +12,6 @@ A list of useful tools, software, websites or any other utility related to Leagu
 <li><a  href="#-libraries">📦 Libraries</a></li>
 <li><a  href="#-utilities">🧰 Utilities</a></li>
 <li><a  href="#-documentation">📖 Documentation</a></li>
-<li><a  href="#-quick-start">🚀 Quick-start</a></li>
-<li><a  href="#-contribute">🤝 Contribute</a></li>
 </ul>
 
 <!-- -------------- TOOLS -------------- -->
