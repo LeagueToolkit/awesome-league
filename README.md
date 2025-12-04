@@ -17,18 +17,20 @@ A list of useful tools, software, websites or any other utility related to Leagu
 <!-- -------------- TOOLS -------------- -->
 <h2  id="tools">🔧 Tools</h2>
 
-- [wadtools](https://github.com/LeagueToolkit/wadtools) - CLI tool for interacting with WAD files, including extraction and diffing
 - [ltk-tex-utils](https://github.com/LeagueToolkit/ltk-tex-utils) - Robust converter for `.tex` files. Convert back and forth between common image formats.
 - [Ritoddstex](https://github.com/Morilli/Ritoddstex) - Simple converter for dds<->tex files
 - [ritobin](https://github.com/moonshadow565/ritobin) - CLI tool for converting League's `.bin` format to a human-readable version (`.ritobin`)
+- [ritobin-tools](https://github.com/LeagueToolkit/ritobin-tools) - CLI tool for working with Ritobin (.py/.bin) files
 - [LtMAO](https://github.com/tarngaina/LtMAO) - Collection of various tools and utilities to help modders
 - [lolpytools](https://github.com/moonshadow565/lolpytools) - Python scripts for converting inibin, troybin, luaobj and luabin files
 - [lol2gltf](https://github.com/Crauzer/lol2gltf) - CLI tool for converting 3D assets from League into the GLTF format (partial support for converting GLTF to League formats as well)
 - [Obsidian](https://github.com/Crauzer/Obsidian) - Tool for exploring and extracting `WAD` files with a modern UI
+- [wadtools](https://github.com/LeagueToolkit/wadtools) - CLI tool for interacting with WAD files, including extraction and diffing
 - [league-mod](https://github.com/LeagueToolkit/league-mod) - Toolkit for creating, managing, and distributing League of Legends mods.
 - [lol-blender](https://github.com/RitoShark/lol-blender) - Blender plugin for League of Legends asset import/export
 - [Quartz](https://github.com/RitoShark/Quartz) - All-in-one VFX & material editor
 - [League-Mod-Repather](https://github.com/RitoShark/League-Mod-Repather) - A standalone tool to automatically repath `.fantome` files and mod folders, which can also fix several issues as square particles, game crashing, etc.
+- [shader-tools](https://github.com/LeagueToolkit/shader-tools) - CLI tool for extracting shader bytecode
 
   
 
