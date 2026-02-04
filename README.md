@@ -41,7 +41,7 @@ A list of useful tools, software, websites or any other utility related to Leagu
 - [league-toolkit](https://github.com/LeagueToolkit/league-toolkit) - Rust implementation of League Toolkit
 - [LeagueToolkit](https://github.com/LeagueToolkit/LeagueToolkit) - Parse, edit and convert various League of Legends file formats
 - [pyritofile](https://github.com/GuiSaiUwU/pyritofile-package) - Python package to deal with League of Legends files
-
+- [cdragon-rs](https://github.com/CommunityDragon/cdragon-rs) - CDragon Rust library collection
   
 
 <!-- -------------- UTILITIES -------------- -->
