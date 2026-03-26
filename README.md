@@ -56,6 +56,7 @@ A list of useful tools, software, websites or any other utility related to Leagu
 - [Gimp-Tex-Plugin](https://github.com/RitoShark/Gimp-Tex-Plugin) - This plugin allows GIMP to open and save League of Legends `.tex` texture files
 - [League Hashes by CDragon](https://github.com/CommunityDragon/Data) - Contains an actively maintained collection of hashes used by League
 - [riot-manifests](https://github.com/Morilli/riot-manifests) - List of manifest files for Riot Games products, including League
+- [ManifestDownloaderGUI](https://github.com/dazashu/ManifestDownloaderGUI) - GUI tool to download Riot manifest files
 
   
 
