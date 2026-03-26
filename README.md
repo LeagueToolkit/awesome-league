@@ -32,7 +32,10 @@ A list of useful tools, software, websites or any other utility related to Leagu
 - [League-Mod-Repather](https://github.com/RitoShark/League-Mod-Repather) - A standalone tool to automatically repath `.fantome` files and mod folders, which can also fix several issues as square particles, game crashing, etc.
 - [shader-tools](https://github.com/LeagueToolkit/shader-tools) - CLI tool for extracting shader bytecode
 - [hexbelt](https://alanpq.github.io/hexbelt) - Web app for exploring/interacting with `.wad` & `.bin` files.
-
+- [bnk_gui](https://github.com/Morilli/bnk-extract-GUI/releases) - Audio soundbank editor
+- [Wwise](https://www.audiokinetic.com/en/wwise/overview/) - Used to make custom soundbanks
+- [Wwiser](https://github.com/bnnm/wwiser) - Allows to analyze `_events.bnk` files
+- [Cslol-go](https://github.com/Aurecueil/Cs-lol-go) - Mod manager boundled with Topaz mod fixer
   
 
 <!-- -------------- LIBRARIES -------------- -->
