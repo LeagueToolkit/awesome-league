@@ -39,6 +39,7 @@ A list of useful tools, software, websites or any other utility related to Leagu
 - [TopazModFixerCLI](https://github.com/LeagueToolkit/TopazModFixerCLI) - Standalone CLI for the Topaz mod fixer (C#), used in Cslol-go and available for automation and integration into other tools
 - [Flint](https://github.com/LeagueToolkit/Flint) - Modding IDE for extracting, previewing, editing, and exporting League assets
 - [Hematite](https://github.com/LeagueToolkit/Hematite) - Automatically detects and fixes common issues in custom League skins
+- [Chroma-Tool-Studio](https://github.com/VISION4RIO/chroma-tool-studio) Tool that allow you to edit .DDS by full color instead of pixels and recolor VFX in one click by tracking right thigns on code.
 
 
 <!-- -------------- LIBRARIES -------------- -->
