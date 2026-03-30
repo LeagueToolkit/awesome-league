@@ -43,7 +43,7 @@ A list of useful tools, software, websites or any other utility related to Leagu
 
 =======
 - [Cslol-go](https://github.com/Aurecueil/Cs-lol-go) - Mod manager boundled with Topaz mod fixer
-- [Chroma-Tool-Studio](https://github.com/VISION4RIO/chroma-tool-studio) Tool that allow you to edit .DDS by full color instead of pixels and recolor VFX in one click by tracking right thins on code.
+- [Chroma-Tool-Studio](https://github.com/VISION4RIO/chroma-tool-studio) Tool that allow you to edit .DDS by full color instead of pixels and recolor VFX in one click by tracking right thigns on code.
   
 >>>>>>> 60ff7a7 (Update README.md)
 
