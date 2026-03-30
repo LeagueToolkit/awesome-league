@@ -36,6 +36,7 @@ A list of useful tools, software, websites or any other utility related to Leagu
 - [Wwise](https://www.audiokinetic.com/en/wwise/overview/) - Used to make custom soundbanks
 - [Wwiser](https://github.com/bnnm/wwiser) - Allows to analyze `_events.bnk` files
 - [Cslol-go](https://github.com/Aurecueil/Cs-lol-go) - Mod manager boundled with Topaz mod fixer
+- [Chroma-Tool-Studio(https://github.com/VISION4RIO/chroma-tool-studio) - Tool for easy recolor assets by changing full colors instead pixels and VFX color tracker in the .py file
   
 
 <!-- -------------- LIBRARIES -------------- -->
