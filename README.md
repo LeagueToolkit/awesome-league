@@ -35,8 +35,11 @@ A list of useful tools, software, websites or any other utility related to Leagu
 - [bnk_gui](https://github.com/Morilli/bnk-extract-GUI/releases) - Audio soundbank editor
 - [Wwise](https://www.audiokinetic.com/en/wwise/overview/) - Used to make custom soundbanks
 - [Wwiser](https://github.com/bnnm/wwiser) - Allows to analyze `_events.bnk` files
-- [Cslol-go](https://github.com/Aurecueil/Cs-lol-go) - Mod manager boundled with Topaz mod fixer
-  
+- [Cslol-go](https://github.com/Aurecueil/Cs-lol-go) - Mod manager bundled with Topaz mod fixer
+- [TopazModFixerCLI](https://github.com/LeagueToolkit/TopazModFixerCLI) - Standalone CLI for the Topaz mod fixer (C#), used in Cslol-go and available for automation and integration into other tools
+- [Flint](https://github.com/LeagueToolkit/Flint) - Modding IDE for extracting, previewing, editing, and exporting League assets
+- [Hematite](https://github.com/LeagueToolkit/Hematite) - Automatically detects and fixes common issues in custom League skins
+
 
 <!-- -------------- LIBRARIES -------------- -->
 <h2  id="libraries">📦 Libraries</h2>
@@ -52,7 +55,7 @@ A list of useful tools, software, websites or any other utility related to Leagu
 
 - [ltk-tex-thumb-handler](https://github.com/LeagueToolkit/ltk-tex-utils) - Show `.tex` texture previews in Windows Explorer
 - [Paint.NET-Tex-Plugin](https://github.com/RitoShark/Paint.NET-Tex-Plugin) - Paint.NET plugin for importing and saving League of Legends `.tex` files with windows explorer previews
-- [Photoshop-Tex-Plugin](https://github.com/RitoShark/Photoshop-Tex-Plugin) - A Photoshop plugin for loading and saving League of Legends `.tex` texture files with DXT5 compression
+- [RitoTex-Photoshop](https://github.com/LeagueToolkit/RitoTex-Photoshop) - Photoshop plugin for loading and saving League of Legends `.tex` texture files
 - [Gimp-Tex-Plugin](https://github.com/RitoShark/Gimp-Tex-Plugin) - This plugin allows GIMP to open and save League of Legends `.tex` texture files
 - [League Hashes by CDragon](https://github.com/CommunityDragon/Data) - Contains an actively maintained collection of hashes used by League
 - [riot-manifests](https://github.com/Morilli/riot-manifests) - List of manifest files for Riot Games products, including League
