@@ -35,17 +35,12 @@ A list of useful tools, software, websites or any other utility related to Leagu
 - [bnk_gui](https://github.com/Morilli/bnk-extract-GUI/releases) - Audio soundbank editor
 - [Wwise](https://www.audiokinetic.com/en/wwise/overview/) - Used to make custom soundbanks
 - [Wwiser](https://github.com/bnnm/wwiser) - Allows to analyze `_events.bnk` files
-<<<<<<< HEAD
 - [Cslol-go](https://github.com/Aurecueil/Cs-lol-go) - Mod manager bundled with Topaz mod fixer
 - [TopazModFixerCLI](https://github.com/LeagueToolkit/TopazModFixerCLI) - Standalone CLI for the Topaz mod fixer (C#), used in Cslol-go and available for automation and integration into other tools
 - [Flint](https://github.com/LeagueToolkit/Flint) - Modding IDE for extracting, previewing, editing, and exporting League assets
 - [Hematite](https://github.com/LeagueToolkit/Hematite) - Automatically detects and fixes common issues in custom League skins
-
-=======
-- [Cslol-go](https://github.com/Aurecueil/Cs-lol-go) - Mod manager boundled with Topaz mod fixer
 - [Chroma-Tool-Studio](https://github.com/VISION4RIO/chroma-tool-studio) Tool that allow you to edit .DDS by full color instead of pixels and recolor VFX in one click by tracking right thigns on code.
-  
->>>>>>> 60ff7a7 (Update README.md)
+
 
 <!-- -------------- LIBRARIES -------------- -->
 <h2  id="libraries">📦 Libraries</h2>
