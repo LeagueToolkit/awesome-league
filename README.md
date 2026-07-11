@@ -45,6 +45,7 @@ Not sure where to look? Find your file format here:
 Trusted mod managers for installing and running mods.
 
 - [LTK Manager](https://github.com/LeagueToolkit/ltk-manager) `GUI` - The official LeagueToolkit mod manager, succeeding the original cslol-manager
+- [Celestial](https://divineskins.gg/install-mods) `GUI` - Divine Skins' launcher with automated skin updates and a built-in fixer
 - [cslol-go](https://github.com/Aurecueil/Cs-lol-go) `GUI` - Mod manager bundled with the Topaz mod fixer
 
 <!-- -------------- MODDING -------------- -->
@@ -64,6 +65,7 @@ Creating, fixing, and distributing mods.
 
 Exploring, extracting, and building `.wad` game archives.
 
+- [Flint](https://github.com/LeagueToolkit/Flint) `GUI` - Modding IDE with a WAD explorer - browse and extract the entire game archive as a lazy-loaded virtual filesystem with live previews
 - [hexbelt](https://alanpq.github.io/hexbelt) `Web` - Web app for exploring/interacting with `.wad` & `.bin` files
 - [Obsidian](https://github.com/Crauzer/Obsidian) `GUI` - Tool for exploring and extracting `WAD` files with a modern UI
 - [wadtools](https://github.com/LeagueToolkit/wadtools) `CLI` - High-performance tool for extracting and working with WAD files; includes modern automatic hash management, file diffing and scanning 
@@ -73,6 +75,7 @@ Exploring, extracting, and building `.wad` game archives.
 
 Converting and editing `.bin` property files and their legacy predecessors.
 
+- [Flint](https://github.com/LeagueToolkit/Flint) `GUI` - Modding IDE with a built-in `.bin` editor; can register the `.bin` extension so files open for editing on double-click in Windows Explorer
 - [hexbelt](https://alanpq.github.io/hexbelt) `Web` - Web app for exploring/interacting with `.wad` & `.bin` files
 - [lolpytools](https://github.com/moonshadow565/lolpytools) `CLI` - Python scripts for converting inibin, troybin, luaobj and luabin files
 - [ritobin](https://github.com/moonshadow565/ritobin) `CLI` - Converts League's `.bin` format to a human-readable version (`.ritobin`)
@@ -93,6 +96,7 @@ Converting and editing `.tex` and `.dds` texture files.
 - [ltk-tex-thumb-handler](https://github.com/LeagueToolkit/ltk-tex-utils) `Plugin` - Show `.tex` texture previews in Windows Explorer
 - [Paint.NET-Tex-Plugin](https://github.com/RitoShark/Paint.NET-Tex-Plugin) `Plugin` - Import and save `.tex` files in Paint.NET, with Windows Explorer previews
 - [RitoTex-Photoshop](https://github.com/LeagueToolkit/RitoTex-Photoshop) `Plugin` - Load and save `.tex` texture files in Photoshop
+- [TexThumbnailProvider](https://github.com/RitoShark/TexThumbnailProvider) `Plugin` - Show `.tex` thumbnails in Windows Explorer; claims the `.tex` file association itself, so it's an alternative that keeps working when Photoshop-type plugins claim the format and ltk-tex-thumb-handler stops showing previews
 
 <!-- -------------- 3D -------------- -->
 ## 3D Models & Animation
@@ -117,6 +121,7 @@ Editing particles, materials, and recoloring effects.
 Extracting and building `.bnk`/`.wpk` soundbanks.
 
 - [bnk_gui](https://github.com/Morilli/bnk-extract-GUI/releases) `GUI` - Audio soundbank editor
+- [Quartz](https://github.com/RitoShark/Quartz) `GUI` - Includes Bnk Editor Pro, a built-in soundbank editor with a bunch of extra quality-of-life features for editing `.bnk` files
 - [Wwise](https://www.audiokinetic.com/en/wwise/overview/) `GUI` - Audiokinetic's audio middleware, used to make custom soundbanks
 - [Wwiser](https://github.com/bnnm/wwiser) `CLI` - Analyze `_events.bnk` files
 
@@ -126,6 +131,7 @@ Extracting and building `.bnk`/`.wpk` soundbanks.
 Hash → path tables for resolving the game's hashed file and field names.
 
 - [League Hashes by CDragon](https://github.com/CommunityDragon/Data) - Actively maintained collection of hashes used by League
+- [lmdb-hashes](https://github.com/RitoShark/lmdb-hashes) - Packs the CDragon hash tables into LMDB databases published as zstd-compressed releases (decompress before use); same idea as mimir, but this is the original project
 - [mimir](https://github.com/LeagueToolkit/mimir) `CLI` - Toolkit for generating, storing, and serving League hash → path tables as a compact, memory-mapped binary format (`.hashdb`)
 
 <!-- -------------- MANIFESTS -------------- -->
@@ -133,6 +139,7 @@ Hash → path tables for resolving the game's hashed file and field names.
 
 Manifests for downloading game files from Riot's CDN.
 
+- [Flint](https://github.com/LeagueToolkit/Flint) `GUI` - The CDN button in Flint's WAD explorer lets you browse manifests and preview or download individual files without downloading the whole WAD
 - [ManifestDownloaderGUI](https://github.com/dazashu/ManifestDownloaderGUI) `GUI` - Download Riot manifest files
 - [riot-manifests](https://github.com/Morilli/riot-manifests) - List of manifest files for Riot Games products, including League
 
@@ -150,6 +157,8 @@ For developers building their own tools.
 - [league-toolkit](https://github.com/LeagueToolkit/league-toolkit) `Rust` - Rust implementation of League Toolkit
 - [LeagueToolkit](https://github.com/LeagueToolkit/LeagueToolkit) `C#` - Parse, edit and convert various League of Legends file formats
 - [pyritofile](https://github.com/GuiSaiUwU/pyritofile-package) `Python` - Python package to deal with League of Legends files
+- [RitoShark-Crates](https://github.com/RitoShark/RitoShark-Crates) `Rust` - Rust crates for reading and writing League file formats, focused on speed and byte-identical round-trip output
+- [TS-RitoFile](https://github.com/DexalGT/TS-RitoFile) `TypeScript` - TypeScript library for reading and writing League file formats, aiming for byte-exact round-trips
 
 <!-- -------------- DOCS -------------- -->
 ## Documentation
