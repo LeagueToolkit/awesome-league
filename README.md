@@ -66,7 +66,7 @@ Exploring, extracting, and building `.wad` game archives.
 
 - [hexbelt](https://alanpq.github.io/hexbelt) `Web` - Web app for exploring/interacting with `.wad` & `.bin` files
 - [Obsidian](https://github.com/Crauzer/Obsidian) `GUI` - Tool for exploring and extracting `WAD` files with a modern UI
-- [wadtools](https://github.com/LeagueToolkit/wadtools) `CLI` - High-performance tool for extracting and working with WAD files; includes modern automatic hash management, file diffing and scanning 
+- [wadtools](https://github.com/LeagueToolkit/wadtools) `CLI` - High-performance tool for extracting and working with WAD files; includes modern automatic hash management, file diffing and scanning
 
 <!-- -------------- BIN -------------- -->
 ## Bin & Property Files
@@ -76,8 +76,8 @@ Converting and editing `.bin` property files and their legacy predecessors.
 - [hexbelt](https://alanpq.github.io/hexbelt) `Web` - Web app for exploring/interacting with `.wad` & `.bin` files
 - [lolpytools](https://github.com/moonshadow565/lolpytools) `CLI` - Python scripts for converting inibin, troybin, luaobj and luabin files
 - [ritobin](https://github.com/moonshadow565/ritobin) `CLI` - Converts League's `.bin` format to a human-readable version (`.ritobin`)
-- [ritobin-lsp](https://github.com/alanpq/ritobin-lsp) `LSP` - The official LSP server for the `.ritobin` language format; includes formatting, auto-complete and linting of structs using an integration with the LTK meta wiki database
 - [ritobin-tools](https://github.com/LeagueToolkit/ritobin-tools) `CLI` - CLI tool for working with Ritobin (`.py`/`.bin`) files
+- [ritobin-lsp](https://github.com/alanpq/ritobin-lsp) `LSP` - The official LSP server/VSCode extension for the `.ritobin` language format; includes formatting, auto-complete and linting of structs using an integration with the LTK meta wiki database
 
 <!-- -------------- TEXTURES -------------- -->
 ## Textures & Images
