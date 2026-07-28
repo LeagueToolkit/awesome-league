@@ -96,7 +96,7 @@ Converting and editing `.tex` and `.dds` texture files.
 - [ltk-tex-thumb-handler](https://github.com/LeagueToolkit/ltk-tex-utils) `Plugin` - Show `.tex` texture previews in Windows Explorer
 - [Paint.NET-Tex-Plugin](https://github.com/RitoShark/Paint.NET-Tex-Plugin) `Plugin` - Import and save `.tex` files in Paint.NET, with Windows Explorer previews
 - [RitoTex-Photoshop](https://github.com/LeagueToolkit/RitoTex-Photoshop) `Plugin` - Load and save `.tex` texture files in Photoshop
-- [TexThumbnailProvider](https://github.com/RitoShark/TexThumbnailProvider) `Plugin` - Show `.tex` thumbnails in Windows Explorer; claims the `.tex` file association itself, so it's an alternative that keeps working when Photoshop-type plugins claim the format and ltk-tex-thumb-handler stops showing previews
+- [TexThumbnailProvider](https://github.com/RitoShark/TexThumbnailProvider) `Plugin` - Show `.tex` thumbnails in Windows Explorer; *maintained by RitoShark*
 
 <!-- -------------- 3D -------------- -->
 ## 3D Models & Animation
@@ -106,6 +106,8 @@ Importing, exporting, and converting meshes, skeletons, and animations.
 - [Aventurine-League-Tools](https://github.com/RitoShark/Aventurine-League-Tools) `Plugin` - Blender plugin for League of Legends asset import/export
 - [lemon3d](https://github.com/tarngaina/LtMAO#lemon3d) `Plugin` - Modern and maintained iteration of the Autodesk Maya plugin, bundled with the LtMAO app
 - [lol2gltf](https://github.com/Crauzer/lol2gltf) `CLI` - Convert 3D assets from League into the glTF format (partial support for converting glTF to League formats as well)
+- [mapgeo2fbx](https://github.com/DexalGT/mapgeo2fbx) `CLI` - Convert `.mapgeo` map geometry to `.fbx` for use in Maya, Blender and 3ds Max
+- [RitoShark Maya](https://github.com/RitoShark/RitoShark-Maya) `Plugin` - Autodesk Maya plugin for importing and exporting `.skn`, `.skl`, `.anm`, `.scb`, `.sco` and `.mapgeo`
 
 <!-- -------------- VFX -------------- -->
 ## VFX & Materials
@@ -131,7 +133,7 @@ Extracting and building `.bnk`/`.wpk` soundbanks.
 Hash → path tables for resolving the game's hashed file and field names.
 
 - [League Hashes by CDragon](https://github.com/CommunityDragon/Data) - Actively maintained collection of hashes used by League
-- [lmdb-hashes](https://github.com/RitoShark/lmdb-hashes) - Packs the CDragon hash tables into LMDB databases published as zstd-compressed releases (decompress before use); same idea as mimir, but this is the original project
+- [lmdb-hashes](https://github.com/RitoShark/lmdb-hashes) - Packs the CDragon hash tables into LMDB databases published as zstd-compressed releases
 - [mimir](https://github.com/LeagueToolkit/mimir) `CLI` - Toolkit for generating, storing, and serving League hash → path tables as a compact, memory-mapped binary format (`.hashdb`)
 
 <!-- -------------- MANIFESTS -------------- -->
@@ -157,8 +159,8 @@ For developers building their own tools.
 - [league-toolkit](https://github.com/LeagueToolkit/league-toolkit) `Rust` - Rust implementation of League Toolkit
 - [LeagueToolkit](https://github.com/LeagueToolkit/LeagueToolkit) `C#` - Parse, edit and convert various League of Legends file formats
 - [pyritofile](https://github.com/GuiSaiUwU/pyritofile-package) `Python` - Python package to deal with League of Legends files
-- [RitoShark-Crates](https://github.com/RitoShark/RitoShark-Crates) `Rust` - Rust crates for reading and writing League file formats, focused on speed and byte-identical round-trip output
-- [TS-RitoFile](https://github.com/DexalGT/TS-RitoFile) `TypeScript` - TypeScript library for reading and writing League file formats, aiming for byte-exact round-trips
+- [RitoShark-Crates](https://github.com/RitoShark/RitoShark-Crates) `Rust` - Rust crates for reading and writing League file formats
+- [TS-RitoFile](https://github.com/DexalGT/TS-RitoFile) `TypeScript` - TypeScript library for reading and writing League file formats (doing file IO with JS is not recommended)
 
 <!-- -------------- DOCS -------------- -->
 ## Documentation
