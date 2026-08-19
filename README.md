@@ -65,7 +65,7 @@ Creating, fixing, and distributing mods.
 
 Exploring, extracting, and building `.wad` game archives.
 
-- [Flint](https://github.com/LeagueToolkit/Flint) `GUI` - Modding IDE with a WAD explorer - browse and extract the entire game archive as a lazy-loaded virtual filesystem with live previews
+- [Flint](https://github.com/LeagueToolkit/Flint) `GUI` - includes a `.wad` explorer w/ live previews
 - [hexbelt](https://alanpq.github.io/hexbelt) `Web` - Web app for exploring/interacting with `.wad` & `.bin` files
 - [Obsidian](https://github.com/Crauzer/Obsidian) `GUI` - Tool for exploring and extracting `WAD` files with a modern UI
 - [wadtools](https://github.com/LeagueToolkit/wadtools) `CLI` - High-performance tool for extracting and working with WAD files; includes modern automatic hash management, file diffing and scanning 
