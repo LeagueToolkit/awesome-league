@@ -75,7 +75,7 @@ Exploring, extracting, and building `.wad` game archives.
 
 Converting and editing `.bin` property files and their legacy predecessors.
 
-- [Flint](https://github.com/LeagueToolkit/Flint) `GUI` - Modding IDE with a built-in `.bin` editor; can register the `.bin` extension so files open for editing on double-click in Windows Explorer
+- [Flint](https://github.com/LeagueToolkit/Flint) `GUI` - direct support for `.bin`/`.rito` files, with integrated ritobin editor
 - [hexbelt](https://alanpq.github.io/hexbelt) `Web` - Web app for exploring/interacting with `.wad` & `.bin` files
 - [lolpytools](https://github.com/moonshadow565/lolpytools) `CLI` - Python scripts for converting inibin, troybin, luaobj and luabin files
 - [ritobin](https://github.com/moonshadow565/ritobin) `CLI` - Converts League's `.bin` format to a human-readable version (`.ritobin`)
