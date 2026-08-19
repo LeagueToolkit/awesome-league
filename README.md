@@ -93,10 +93,10 @@ Converting and editing `.tex` and `.dds` texture files.
 ### Image Editor Plugins
 
 - [Gimp-Tex-Plugin](https://github.com/RitoShark/Gimp-Tex-Plugin) `Plugin` - Open and save League of Legends `.tex` files in GIMP
-- [ltk-tex-thumb-handler](https://github.com/LeagueToolkit/ltk-tex-utils) `Plugin` - Show `.tex` texture previews in Windows Explorer
+- [ltk-tex-thumb-handler](https://github.com/LeagueToolkit/ltk-tex-utils) `Plugin` - Show `.tex` texture previews in Windows Explorer; *maintained by LeagueToolkit*
+- [TexThumbnailProvider](https://github.com/RitoShark/TexThumbnailProvider) `Plugin` - Show `.tex` thumbnails in Windows Explorer; *maintained by RitoShark*
 - [Paint.NET-Tex-Plugin](https://github.com/RitoShark/Paint.NET-Tex-Plugin) `Plugin` - Import and save `.tex` files in Paint.NET, with Windows Explorer previews
 - [RitoTex-Photoshop](https://github.com/LeagueToolkit/RitoTex-Photoshop) `Plugin` - Load and save `.tex` texture files in Photoshop
-- [TexThumbnailProvider](https://github.com/RitoShark/TexThumbnailProvider) `Plugin` - Show `.tex` thumbnails in Windows Explorer; *maintained by RitoShark*
 
 <!-- -------------- 3D -------------- -->
 ## 3D Models & Animation
@@ -106,7 +106,7 @@ Importing, exporting, and converting meshes, skeletons, and animations.
 - [Aventurine-League-Tools](https://github.com/RitoShark/Aventurine-League-Tools) `Plugin` - Blender plugin for League of Legends asset import/export
 - [lemon3d](https://github.com/tarngaina/LtMAO#lemon3d) `Plugin` - Modern and maintained iteration of the Autodesk Maya plugin, bundled with the LtMAO app
 - [lol2gltf](https://github.com/Crauzer/lol2gltf) `CLI` - Convert 3D assets from League into the glTF format (partial support for converting glTF to League formats as well)
-- [mapgeo2fbx](https://github.com/DexalGT/mapgeo2fbx) `CLI` - Convert `.mapgeo` map geometry to `.fbx` for use in Maya, Blender and 3ds Max
+- [mapgeo2fbx](https://github.com/DexalGT/mapgeo2fbx) `CLI` - Convert `.mapgeo` map geometry to `.fbx` for use in any 3D modelling software
 - [RitoShark Maya](https://github.com/RitoShark/RitoShark-Maya) `Plugin` - Autodesk Maya plugin for importing and exporting `.skn`, `.skl`, `.anm`, `.scb`, `.sco` and `.mapgeo`
 
 <!-- -------------- VFX -------------- -->
@@ -141,7 +141,7 @@ Hash → path tables for resolving the game's hashed file and field names.
 
 Manifests for downloading game files from Riot's CDN.
 
-- [Flint](https://github.com/LeagueToolkit/Flint) `GUI` - The CDN button in Flint's WAD explorer lets you browse manifests and preview or download individual files without downloading the whole WAD
+- [Flint](https://github.com/LeagueToolkit/Flint) `GUI` - features a manifest browser with individual file preview & downloads
 - [ManifestDownloaderGUI](https://github.com/dazashu/ManifestDownloaderGUI) `GUI` - Download Riot manifest files
 - [riot-manifests](https://github.com/Morilli/riot-manifests) - List of manifest files for Riot Games products, including League
 
