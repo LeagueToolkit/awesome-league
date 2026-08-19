@@ -123,7 +123,7 @@ Editing particles, materials, and recoloring effects.
 Extracting and building `.bnk`/`.wpk` soundbanks.
 
 - [bnk_gui](https://github.com/Morilli/bnk-extract-GUI/releases) `GUI` - Audio soundbank editor
-- [Quartz](https://github.com/RitoShark/Quartz) `GUI` - Includes Bnk Editor Pro, a built-in soundbank editor with a bunch of extra quality-of-life features for editing `.bnk` files
+- [Quartz](https://github.com/RitoShark/Quartz) `GUI` - includes a soundbank editor with quality-of-life features for editing `.bnk` files
 - [Wwise](https://www.audiokinetic.com/en/wwise/overview/) `GUI` - Audiokinetic's audio middleware, used to make custom soundbanks
 - [Wwiser](https://github.com/bnnm/wwiser) `CLI` - Analyze `_events.bnk` files
 
