@@ -58,6 +58,7 @@ Creating, fixing, and distributing mods.
 - [league-mod](https://github.com/LeagueToolkit/league-mod) `CLI` - Toolkit for creating, managing, and distributing League of Legends mods
 - [League-Mod-Repather](https://github.com/RitoShark/League-Mod-Repather) `GUI` - Automatically repaths `.fantome` files and mod folders; also fixes issues like square particles and game crashes
 - [LtMAO](https://github.com/tarngaina/LtMAO) `GUI` - Collection of various tools and utilities to help modders
+- [ReyEngine](https://github.com/TheKillerey/ReyEngine) `GUI` - Map and asset editor for League mods, with editors for maps, champions, particles and audio
 - [TopazModFixerCLI](https://github.com/LeagueToolkit/TopazModFixerCLI) `CLI` - Standalone CLI for the Topaz mod fixer (C#), used in Cslol-go and available for automation and integration into other tools
 
 <!-- -------------- WAD -------------- -->
