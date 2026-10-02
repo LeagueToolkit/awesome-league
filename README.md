@@ -108,6 +108,7 @@ Importing, exporting, and converting meshes, skeletons, and animations.
 - [lemon3d](https://github.com/tarngaina/LtMAO#lemon3d) `Plugin` - Modern and maintained iteration of the Autodesk Maya plugin, bundled with the LtMAO app
 - [lol2gltf](https://github.com/Crauzer/lol2gltf) `CLI` - Convert 3D assets from League into the glTF format (partial support for converting glTF to League formats as well)
 - [mapgeo2fbx](https://github.com/DexalGT/mapgeo2fbx) `CLI` - Convert `.mapgeo` map geometry to `.fbx` for use in any 3D modelling software
+- [MapgeoAddon](https://github.com/TheKillerey/MapgeoAddon) `Plugin` - Blender add-on for importing, editing and exporting `.mapgeo` maps, with their materials, particles and map objects
 - [RitoShark Maya](https://github.com/RitoShark/RitoShark-Maya) `Plugin` - Autodesk Maya plugin for importing and exporting `.skn`, `.skl`, `.anm`, `.scb`, `.sco` and `.mapgeo`
 
 <!-- -------------- VFX -------------- -->
