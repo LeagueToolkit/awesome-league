@@ -57,6 +57,7 @@ Creating, fixing, and distributing mods.
 - [Hematite](https://github.com/LeagueToolkit/Hematite) `CLI` - Automatically detects and fixes common issues in custom League skins
 - [league-mod](https://github.com/LeagueToolkit/league-mod) `CLI` - Toolkit for creating, managing, and distributing League of Legends mods
 - [League-Mod-Repather](https://github.com/RitoShark/League-Mod-Repather) `GUI` - Automatically repaths `.fantome` files and mod folders; also fixes issues like square particles and game crashes
+- [lol7z](https://github.com/moonshadow565/lol7z) `Plugin` - 7-Zip plugin that opens `.modpkg` files as their mod project folder tree and packs a project back into a package
 - [LtMAO](https://github.com/tarngaina/LtMAO) `GUI` - Collection of various tools and utilities to help modders
 - [ReyEngine](https://github.com/TheKillerey/ReyEngine) `GUI` - Map and asset editor for League mods, with editors for maps, champions, particles and audio
 - [TopazModFixerCLI](https://github.com/LeagueToolkit/TopazModFixerCLI) `CLI` - Standalone CLI for the Topaz mod fixer (C#), used in Cslol-go and available for automation and integration into other tools
@@ -68,6 +69,7 @@ Exploring, extracting, and building `.wad` game archives.
 
 - [Flint](https://github.com/LeagueToolkit/Flint) `GUI` - includes a `.wad` explorer w/ live previews
 - [hexbelt](https://alanpq.github.io/hexbelt) `Web` - Web app for exploring/interacting with `.wad` & `.bin` files
+- [lol7z](https://github.com/moonshadow565/lol7z) `Plugin` - 7-Zip plugin that reads `.wad` archives of every version (1 to 3.4) and writes 3.4; resolves paths from Mimir hash tables and keeps unknown hashes and long names round-trippable
 - [Obsidian](https://github.com/Crauzer/Obsidian) `GUI` - Tool for exploring and extracting `WAD` files with a modern UI
 - [wadtools](https://github.com/LeagueToolkit/wadtools) `CLI` - High-performance tool for extracting and working with WAD files; includes modern automatic hash management, file diffing and scanning
 
